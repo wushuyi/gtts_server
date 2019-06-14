@@ -1,0 +1,6 @@
+const long_text = `CSS  was  first  proposed  in  1994,  just  as  the  web  was  beginning  to  really  catch  on.  Atthe time, browsers gave all sorts of styling power to the user—the presentation prefer‐ences  in  Mosaic,  for  example,  permitted  all  manner  of  font  family,  size,  and  color  tobe defined by the user on a per-element basis. None of this was available to documentauthors; all they could do was mark a piece of content as a paragraph, as a heading ofsome level, as preformatted text, or one of a handful of other element types. If a userconfigured his browser to make all level-one headings tiny and pink and all level-sixheadings huge and red, well, that was his lookout.It  was  into  this  milieu  that  CSS  was  introduced.  Its  goal  was  to  provide  a  simple,declarative styling language that was flexible for authors and, most importantly, pro‐vided styling power to authors and users alike. By means of the “cascade,” these stylescould  be  combined  and  prioritized  so  that  both  authors  and  readers  had  a  say—though readers always had the last say.`
+const text = `When soldiers march somewhere, or when a commanding officer marches them somewhere, they walk there with very regular steps, as a group.`
+
+exports.long_text = long_text;
+exports.text = text;
+

@@ -1,0 +1,17 @@
+{
+  "name": "gtts_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^9.6.0",
+    "hapi": "^18.1.0",
+    "iconv-lite": "^0.4.24",
+    "tunnel": "0.0.6"
+  }
+}
