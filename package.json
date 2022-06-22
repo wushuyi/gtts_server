@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "hapi": "^18.1.0",
     "iconv-lite": "^0.4.24",
     "tunnel": "0.0.6"
